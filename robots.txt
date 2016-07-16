@@ -1,0 +1,100 @@
+User-Agent: *
+Disallow: /common-files/
+Disallow: /email/
+Disallow: /flat-ui/
+Disallow: /ui-kit/
+Disallow: /pages/css/
+Disallow: /pages/img/
+Disallow: /pages/js/
+Disallow: /pages/less/
+Disallow: /.git/
+
+User-Agent: Googlebot
+Disallow: /common-files/
+Disallow: /email/
+Disallow: /flat-ui/
+Disallow: /ui-kit/
+Disallow: /pages/css/
+Disallow: /pages/img/
+Disallow: /pages/js/
+Disallow: /pages/less/
+Disallow: /.git/
+
+User-Agent: Googlebot-Mobile
+Disallow: /common-files/
+Disallow: /email/
+Disallow: /flat-ui/
+Disallow: /ui-kit/
+Disallow: /pages/css/
+Disallow: /pages/img/
+Disallow: /pages/js/
+Disallow: /pages/less/
+Disallow: /.git/
+
+User-Agent: Mediapartners-Google
+Disallow: /common-files/
+Disallow: /email/
+Disallow: /flat-ui/
+Disallow: /ui-kit/
+Disallow: /pages/css/
+Disallow: /pages/img/
+Disallow: /pages/js/
+Disallow: /pages/less/
+Disallow: /.git/
+
+User-Agent: Slurp
+Disallow: /common-files/
+Disallow: /email/
+Disallow: /flat-ui/
+Disallow: /ui-kit/
+Disallow: /pages/css/
+Disallow: /pages/img/
+Disallow: /pages/js/
+Disallow: /pages/less/
+Disallow: /.git/
+
+User-Agent: msnbot
+Disallow: /common-files/
+Disallow: /email/
+Disallow: /flat-ui/
+Disallow: /ui-kit/
+Disallow: /pages/css/
+Disallow: /pages/img/
+Disallow: /pages/js/
+Disallow: /pages/less/
+Disallow: /.git/
+
+User-Agent: Teoma
+Disallow: /common-files/
+Disallow: /email/
+Disallow: /flat-ui/
+Disallow: /ui-kit/
+Disallow: /pages/css/
+Disallow: /pages/img/
+Disallow: /pages/js/
+Disallow: /pages/less/
+Disallow: /.git/
+
+User-Agent: YandexBot
+Disallow: /common-files/
+Disallow: /email/
+Disallow: /flat-ui/
+Disallow: /ui-kit/
+Disallow: /pages/css/
+Disallow: /pages/img/
+Disallow: /pages/js/
+Disallow: /pages/less/
+Disallow: /.git/
+
+User-Agent: YandexMarket
+Disallow: /common-files/
+Disallow: /email/
+Disallow: /flat-ui/
+Disallow: /ui-kit/
+Disallow: /pages/css/
+Disallow: /pages/img/
+Disallow: /pages/js/
+Disallow: /pages/less/
+Disallow: /.git/
+
+Sitemap: http://hamletgadget.github.io/sitemap.xml
