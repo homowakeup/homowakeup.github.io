@@ -3050,7 +3050,7 @@ body .colapsed-menu::-webkit-scrollbar {
   text-align: center;
 }
 .header-9-sub .background {
-  background-image: url('../../../common-files/img/header/web.svgz');
+  background-image: url('../../../common-files/img/header/web.svg');
   opacity: 100;
   filter: alpha(opacity=10000);
   opacity: 1;
