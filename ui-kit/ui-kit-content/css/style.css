@@ -18,7 +18,7 @@ textarea {
   font-size: 14px;
 }
 a {
-  color: #16a085;
+  color: #4eabcc;
   text-decoration: none;
   -webkit-transition: color 0.25s, background 0.25s;
   -moz-transition: color 0.25s, background 0.25s;
@@ -26,7 +26,7 @@ a {
   transition: color 0.25s, background 0.25s;
 }
 a:hover {
-  color: #1abc9c;
+  color: #4eabcc;
   text-decoration: none;
 }
 h1,
@@ -221,6 +221,9 @@ footer {
 }
 .bg-black {
   background-color: #000000;
+}
+.bg-blue {
+  background-color: #59c1ef;
 }
 .bg-turquoise {
   background-color: #1abc9c;

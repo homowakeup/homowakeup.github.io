@@ -18,7 +18,7 @@ textarea {
   font-size: 14px;
 }
 a {
-  color: #16a085;
+  color: #4eabcc;
   text-decoration: none;
   -webkit-transition: color 0.25s, background 0.25s;
   -moz-transition: color 0.25s, background 0.25s;
@@ -26,7 +26,7 @@ a {
   transition: color 0.25s, background 0.25s;
 }
 a:hover {
-  color: #1abc9c;
+  color: #4eabcc;
   text-decoration: none;
 }
 h1,
@@ -218,6 +218,9 @@ footer {
 }
 .bg-white {
   background-color: #ffffff;
+}
+.bg-blue {
+  background-color: #59c1ef;
 }
 .bg-black {
   background-color: #000000;
@@ -2020,7 +2023,7 @@ width: 800px;
   max-width: 100%;
 }
 .content-13.subscribe-form .btn.btn-primary {
-  background: #16a085;
+  background: #4eabcc;
 }
 .content-13.subscribe-form .btn.btn-primary:hover,
 .content-13.subscribe-form .btn.btn-primary:focus {
